@@ -12,7 +12,7 @@ const LandingPage = () => {
   //   };
 
   return (
-    <div className="hero h-screen overlay">
+    <div className="landing-page h-screen overlay">
       <div className="relative flex flex-col md:flex-row h-screen">
         <div className="w-full md:w-1/4 p-4 justify-center items-center flex flex-col">
           <h1 className="text-white text-4xl font-bold mb-4">Welcome To</h1>

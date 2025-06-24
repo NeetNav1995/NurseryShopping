@@ -4,7 +4,7 @@ import { FaCartShopping, FaLeaf, FaTree } from "react-icons/fa6";
 
 const Header = () => {
   return (
-    <header className="bg-green-500 text-white p-4 justify-between items-center flex flex-col md:flex-row">
+    <header className="bg-green-600 text-white p-4 justify-between items-center flex flex-col md:flex-row">
       <div className="flex items-center space-x-4">
         <div className="inline-flex items-center justify-center bg-white rounded-full p-2 shadow-md">
           <FaTree className="text-green-500" size={24} />
@@ -16,20 +16,24 @@ const Header = () => {
           </p>
         </div>
       </div>
+     
 
       <nav className="mt-2">
-        <ul className="flex space-x-4">
+        <ul className="flex space-x-4 justify-center items-center">
+          <li className="bg-white text-green-600 px-4 py-2 rounded-lg hover:bg-green-900 hover:text-white transition-colors">
+            <a href="/" className="text-md">
+             Check Plants
+            </a>
+          </li>
           <li>
             <div className="relative inline-block">
               <div className="inline-flex items-center justify-center  rounded-full p-2">
                 <FaShoppingCart className="text-gray-700" size={24} />
               </div>
 
-              
-                <span className="absolute top-0 right-0 inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white bg-red-600 rounded-full transform translate-x-1/2 -translate-y-1/2">
-                 1
-                </span>
-             
+              <span className="absolute top-0 right-0 inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white bg-red-600 rounded-full transform translate-x-1/2 -translate-y-1/2">
+                1
+              </span>
             </div>
             {/* <BsCart3 className="text-2xl cursor-pointer" />
             <span className="absolute top-0 right-0 inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white bg-red-600 rounded-full transform translate-x-1/2 -translate-y-1/2">
