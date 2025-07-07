@@ -79,7 +79,7 @@ const PlantsCategories = ({ categories, onCategorySelect }) => {
                       {plant.name}
                     </div>
                     <img
-                      src={"/" + category[0].toLowerCase() + plant.imageUrl}
+                      src={plant.imageUrl}
                       alt="plant"
                       className="inline-block w-40 h-32 object-contain"
                     />

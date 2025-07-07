@@ -8,6 +8,6 @@ import EntryPage from "./components/EntryPage";
 
 createRoot(document.getElementById("root")).render(
   // <Provider store={store}>
-    <EntryPage />
+    <LandingPage />
   // </Provider>
 );
