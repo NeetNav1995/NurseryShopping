@@ -12,8 +12,11 @@ const LandingPage = () => {
   //   };
 
   return (
-    <div className="landing-page h-screen overlay">
-      <div className="relative flex flex-col md:flex-row h-screen">
+    <div className="">
+    
+
+     
+      <div className="relative flex flex-col md:flex-row md:mt-4 min-h-screen">
         <div className="w-full md:w-1/4 p-4 justify-center items-center flex flex-col">
           <h1 className="text-white text-4xl font-bold mb-4">Welcome To</h1>
           <h1 className=" heading-with-line text-white text-4xl font-bold mb-4">
@@ -24,7 +27,7 @@ const LandingPage = () => {
             Get Started
           </button>
         </div>
-        <div className="w-full md:w-3/4 px-28 justify-center items-center flex flex-col">
+        <div className="w-full md:w-3/4 md:px-28 px-6 justify-center items-center flex flex-col">
           <p className="text-xl text-white mb-4">
             Welcome to Paradise Nursery, where green dreams come to life!
           </p>

@@ -9,7 +9,7 @@ export default function EntryPage(){
         <div className="px-4 py-2 bg-gray-200">
         <Header />
         <ShoppingCart />
-        {/* <PlantsCategories categories={Data}/> */}
+        <PlantsCategories categories={Data}/>
         
         </div>
     )

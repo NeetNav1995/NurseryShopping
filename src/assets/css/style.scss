@@ -9,7 +9,7 @@ body,
   scroll-behavior: smooth;
   margin: 0;
   padding: 0;
-  height: 100%;
+  min-height: 100%;
 }
 
 .landing-page {
@@ -24,7 +24,7 @@ body,
 .landing-page::before {
   content: "";
   background-image: url("../images/landing-bg.jpg");
-  background-size: cover;
+  background-size:cover;
   position: absolute;
   top: 0px;
   right: 0px;
