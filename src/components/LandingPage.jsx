@@ -7,9 +7,7 @@ const LandingPage = () => {
   //     navigate("/login");
   //   };
 
-  //   const handleRegister = () => {
-  //     navigate("/register");
-  //   };
+  
 
   return (
     <div className="">
@@ -44,7 +42,7 @@ const LandingPage = () => {
           </p>
           <p className="text-xl text-white mb-4">
             Join us in nurturing nature and creating your own paradise. Visit us
-            today and let your green thumb flourish!{" "}
+            today and let your green thumb flourish!{""}
           </p>
         </div>
       </div>
