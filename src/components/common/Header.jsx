@@ -30,10 +30,10 @@ const Header = () => {
 
       <nav className="mt-2">
         <ul className="flex space-x-4 justify-center items-center">
-          <li className="bg-white text-green-600 px-4 py-2 rounded-lg hover:bg-green-900 hover:text-white transition-colors">
-            <a href="/" className="text-md">
+          <li className="bg-white text-green-600 px-4 py-2 rounded-lg hover:bg-green-900 hover:text-white transition-colors cursor-pointer"
+          onClick={() => navigate("/NurseryShopping/plantsCollection")}>
               Check Plants
-            </a>
+           
           </li>
           <li>
             <div className="relative inline-block">

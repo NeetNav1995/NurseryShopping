@@ -37,13 +37,16 @@
             "name": "Rosemary",
             "description": "Aromatic evergreen herb with needle-like leaves.",
             "imageUrl": "rosemary.jpg",
-            "salePrice": 5.99
+            "salePrice": 5.99,
+            "sale": true
         },
         {
             "id": "arom6",
             "name": "Sage",
             "description": "Aromatic herb with gray-green leaves, used in cooking and for its fragrance.",
-            "imageUrl": "sage.jpg"
+            "imageUrl": "sage.jpg",
+            "salePrice": 5.99,
+            "sale": true
         }
     ],
     "Flowering": [

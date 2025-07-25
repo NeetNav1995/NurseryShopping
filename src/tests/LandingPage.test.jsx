@@ -1,8 +1,13 @@
 import { render,screen } from "@testing-library/react";
+import { BrowserRouter } from "react-router-dom";
 import LandingPage from "../components/LandingPage";
 
+const renderWithRouter = (ui, { route = '/' } = {}) => {
+  return render(ui, { wrapper: BrowserRouter });
+};
+
 test("renders LandingPage component", () => {
-  render(<LandingPage />);
+  renderWithRouter(<LandingPage />);
   
   // Check if the main heading is present
   const mainHeading = screen.getByText(/Welcome To/);
