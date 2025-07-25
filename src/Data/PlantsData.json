@@ -1,178 +1,178 @@
 {
     "Aromatic": [
         {
-            "id": 1,
+            "id": "arom1",
             "name": "Basil",
             "description": "Sweet and pungent aroma, perfect for home decor.",
-            "imageUrl": "/basil.jpg",
+            "imageUrl": "basil.jpg",
             "sale": true,
             "salePrice": 5.99
         },
         {
-            "id": 2,
+            "id": "arom2",
             "name": "Borage",
             "description": "Cucumber like scent, ideal for gardens and pots.",
-            "imageUrl": "/borage.jpg",
+            "imageUrl": "borage.jpg",
             "sale": true,
             "salePrice": 5.99
         },
         {
-            "id": 3,
+            "id": "arom3",
             "name": "Lilacs",
             "description": "Beautiful purple flowers with a sweet fragrance.",
-            "imageUrl": "/lilacs.jpg",
+            "imageUrl": "lilacs.jpg",
             "sale": true,
             "salePrice": 5.99
         },
         {
-            "id": 4,
+            "id": "arom4",
             "name": "Melissa",
             "description": "Lemon-scented leaves, great for teas and potpourri.",
-            "imageUrl": "/melissa.jpg",
+            "imageUrl": "melissa.jpg",
             "sale": true,
             "salePrice": 5.99
         },
         {
-            "id": 5,
+            "id": "arom5",
             "name": "Rosemary",
             "description": "Aromatic evergreen herb with needle-like leaves.",
-            "imageUrl": "/rosemary.jpg",
+            "imageUrl": "rosemary.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 6,
+            "id": "arom6",
             "name": "Sage",
             "description": "Aromatic herb with gray-green leaves, used in cooking and for its fragrance.",
-            "imageUrl": "/sage.jpg"
+            "imageUrl": "sage.jpg"
         }
     ],
     "Flowering": [
         {
-            "id": 1,
+            "id": "flo1",
             "name": "Roses",
             "description": "Classic flowers with a wide range of colors and fragrances.",
-            "imageUrl": "/rose.jpg",
+            "imageUrl": "rose.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 2,
+            "id": "flo2",
             "name": "Tulips",
             "description": "Elegant flowers that bloom in spring, available in many colors.",
-            "imageUrl": "/tulip.jpg",
+            "imageUrl": "tulip.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 3,
+            "id": "flo3",
             "name": "Daisies",
             "description": "Simple yet beautiful flowers with white petals and yellow centers.",
-            "imageUrl": "/daisy.jpg",
+            "imageUrl": "daisy.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 4,
+            "id": "flo4",
             "name": "Sunflowers",
             "description": "Tall flowers with large yellow petals and a dark center, known for their bright appearance.",
-            "imageUrl": "/sunflower.jpg",
+            "imageUrl": "sunflower.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 5,
+            "id": "flo5",
             "name": "Lilies",
             "description": "Elegant flowers with trumpet-shaped blooms, available in various colors.",
-            "imageUrl": "/lily.jpg",
+            "imageUrl": "lily.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 6,
+            "id": "flo6",
             "name": "Orchids",
             "description": "Exotic flowers with unique shapes and vibrant colors, often used in arrangements.",
-            "imageUrl": "/orchid.jpg"
+            "imageUrl": "orchid.jpg"
         }
     ],
     "Medicinal": [
         {
-            "id": 1,
+            "id": "med1",
             "name": "Aloe Vera",
             "description": "Known for its soothing gel, used for skin care and burns.",
-            "imageUrl": "/aloevera.jpg",
+            "imageUrl": "aloevera.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 2,
+            "id": "med2",
             "name": "Chamomile ",
             "description": "Used for its calming properties, often brewed as tea.",
-            "imageUrl": "/chamomile.jpg",
+            "imageUrl": "chamomile.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 3,
+            "id": "med3",
             "name": "Jatropha",
             "description": "Known for its medicinal properties, used in traditional medicine.",
-            "imageUrl": "/jatropha.jpg",
+            "imageUrl": "jatropha.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 4,
+            "id": "med4",
             "name": "Lavender",
             "description": "Known for its calming scent, used in aromatherapy and skin care.",
-            "imageUrl": "/lavender.jpg",
+            "imageUrl": "lavender.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 5,
+            "id": "med5",
             "name": "moroccan mint",
             "description": "A fragrant herb used in teas and for its digestive benefits.",
-            "imageUrl": "/moroccan-mint.jpg",
+            "imageUrl": "moroccan-mint.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 6,
+            "id": "med6",
             "name": "Oregano",
             "description": "A culinary herb with medicinal properties, used in cooking and for its health benefits.",
-            "imageUrl": "/oregano.jpg"
+            "imageUrl": "oregano.jpg"
         }
     ],
     "Purifier": [
         {
-            "id": 1,
+            "id": "pur1",
             "name": "Alocasia Botany",
             "description": "A striking plant with large, arrow-shaped leaves that purifies the air.",
-            "imageUrl": "/alocasia.jpg",
+            "imageUrl": "alocasia.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 2,
+            "id": "pur2",
             "name": "Ceratophyllum",
             "description": "Aquatic plant that thrives in water and helps filter pollutants.",
-            "imageUrl": "/ceratophyllum.jpg",
+            "imageUrl": "ceratophyllum.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 3,
+            "id": "pur3",
             "name": "Snake Plant",
             "description": "Hardy plant that thrives in low light and improves indoor air quality.",
-            "imageUrl": "/snake.jpg",
+            "imageUrl": "snake.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 4,
+            "id": "pur4",
             "name": "Ferns",
             "description": "Known for their lush foliage, ferns help to humidify and purify the air.",
-            "imageUrl": "/ferns.jpg",
+            "imageUrl": "ferns.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 5,
+            "id": "pur5",
             "name": "Green Lustrous",
             "description": "A vibrant plant with glossy leaves that adds a touch of greenery to any space.",
-            "imageUrl": "/green.jpg",
+            "imageUrl": "green.jpg",
             "salePrice": 5.99
         },
         {
-            "id": 6,
+            "id": "pur6",
             "name": "Peace Lily",
             "description": "Peace Lily, known for its elegant white flowers and air-purifying qualities.",
-            "imageUrl": "/lily1.jpg"
+            "imageUrl": "lily1.jpg"
         }
     ]
 }

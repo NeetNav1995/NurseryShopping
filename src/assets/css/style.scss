@@ -9,7 +9,10 @@ body,
   scroll-behavior: smooth;
   margin: 0;
   padding: 0;
-  min-height: 100%;
+  //min-height: 100%;
+}
+.abc{
+   background-image: url("../images/landing-bg.jpg");
 }
 
 .landing-page {
@@ -19,7 +22,7 @@ body,
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(185, 186, 187);
+  //background-color: rgb(185, 186, 187);
 }
 .landing-page::before {
   content: "";
